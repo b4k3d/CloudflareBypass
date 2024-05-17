@@ -1,10 +1,5 @@
 # cloudflare bypass
 
-[![PyPI version](https://badge.fury.io/py/cloudscraper.svg)](https://badge.fury.io/py/cloudscraper)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![image](https://img.shields.io/pypi/pyversions/cloudscraper.svg)](https://pypi.org/project/cloudscraper/)
-[![Build Status](https://travis-ci.com/VeNoMouS/cloudscraper.svg?branch=master)](https://travis-ci.com/VeNoMouS/cloudscraper)
-[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-brightgreen.svg)](https://www.buymeacoffee.com/venomous)
 
 A simple Python module to bypass Cloudflare's anti-bot page (also known as "I'm Under Attack Mode", or IUAM), implemented with [Requests](https://github.com/kennethreitz/requests). Cloudflare changes their techniques periodically, so I will update this repo frequently.
 
@@ -32,8 +27,7 @@ If you feel like showing your love and/or appreciation for this project, then ho
 
 # Installation
 
-Simply run `pip install cloudscraper`. The PyPI package is at https://pypi.python.org/pypi/cloudscraper/
-
+Simply run `pip install cloudscraper`. 
 Alternatively, clone this repository and run `python setup.py install`.
 
 # Dependencies
