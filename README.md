@@ -1,9 +1,9 @@
-<a target="_blank" href="https://www.imghost.net/hvnW6FbaS2PkjvH"><img  src="https://www.imghost.net/ib/z9TyvwuMWbtSgfZ_1717988730.jpg" alt="Black and Orange Spooky Halloween YouTube Thumbnail.jpg"/></a>
+<a target="_blank" href="https://www.imghost.net/8nkNlO86b1APkiy"><img  src="https://www.imghost.net/ib/4K7lgxj9ipHTu1Y_1717994654.jpg" alt="GPr2bT_XAAAv9d44.jpg"/></a>
 
-# Cloudflare Bypass
+<hr />
 
 
-A simple Python module to bypass Cloudflare's anti-bot page (also known as "I'm Under Attack Mode", or IUAM), implemented with [Requests](https://github.com/kennethreitz/requests). Cloudflare changes their techniques periodically, so I will update this repo frequently.
+A simple Python module to bypass Cloudflare's anti-bot page (also known as "I'm Under Attack Mode", or IUAM), implemented with Requests. Cloudflare changes their techniques periodically, so I will update this repo frequently.
 
 This can be useful if you wish to scrape or crawl a website protected with Cloudflare. Cloudflare's anti-bot page currently just checks if the client supports Javascript, though they may add additional techniques in the future.
 
